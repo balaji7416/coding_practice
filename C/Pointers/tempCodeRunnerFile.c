@@ -1,5 +1,4 @@
-  // for(int i=0; i<=len/2 ; i++){
-    //      char temp=*(ptr+i);
-    //     *(ptr+i) = *(ptr+len-i-1);
-    //     *(ptr+len-i-1) = temp;
-    // }
+ // case 2:
+        // printf("enter a string to concat :\n");
+        // scanf("%s",concat_str);
+        // printf("your string is : %s",strcpy(str,concat_str));
