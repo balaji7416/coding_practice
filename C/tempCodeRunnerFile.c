@@ -1,4 +1,1 @@
-  // if(i>len)
-    // return;
-
-    // search(array,key);
+int is_same(char array[],char rev,int len);
