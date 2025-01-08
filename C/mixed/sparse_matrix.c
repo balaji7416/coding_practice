@@ -11,7 +11,7 @@ void rate(int** matrix, int rows, int cols){
 
     for(int i=0; i<rows; i++){
 
-        p = rand()%(cols/20 + 1)+1 ;
+        p = rand()%(cols/20 +1) +1 ;
 
         for(int j=0; j<p; j++){
            col_index = rand()%cols ;
