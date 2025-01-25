@@ -1,1 +1,0 @@
-int is_same(char array[],char rev,int len);
